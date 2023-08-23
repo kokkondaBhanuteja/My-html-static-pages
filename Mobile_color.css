@@ -1,0 +1,30 @@
+.btn {
+    align-items: center;
+}
+
+.bttn {
+    color: white;
+    background-color: #0967d2;
+    border-radius: 5px;
+    padding: 5px 10px 5px 10px;
+    border-width: 0px;
+}
+
+.head1 {
+    color: #0a1f44;
+    font-size: 200%;
+    font-weight: 900;
+}
+
+.card-text {
+    color: #0a1f44;
+    font-weight: 900;
+}
+
+.main {
+    align-content: center;
+}
+
+.card-body {
+    color: #0a1f44;
+}

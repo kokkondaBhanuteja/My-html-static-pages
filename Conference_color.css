@@ -1,0 +1,52 @@
+.head1 {
+    font-size: 275%;
+    font-weight: bolder;
+    text-align: center;
+    color: #183b56;
+}
+
+.head2 {
+    font-size: 175%;
+    font-weight: bolder;
+    color: #183b56;
+}
+
+.img-fluid {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    align-items: center;
+    align-content: center;
+}
+
+.text {
+    font-size: 150%;
+    color: #5a7184;
+    text-align: center;
+}
+
+.btn {
+    align-items: center;
+    vertical-align: middle;
+    position: relative;
+}
+
+.bttn {
+    padding: 5px 10px 5px 10px;
+    color: white;
+    background-color: #0967d2;
+    align-content: center;
+    text-align: center;
+    border-width: 0px;
+    border-radius: 5px;
+    align-items: center
+}
+
+.flex-container {
+    display: flex;
+}
+
+.flex-container2 {
+    display: flex;
+}

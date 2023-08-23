@@ -1,0 +1,130 @@
+#whole {
+    background-color: #1b1b1b;
+}
+
+.wel {
+    background-color: snow;
+    font-size: 150%;
+    color: #9aa5b1;
+    padding-bottom: 2%;
+    border-radius: 7px;
+}
+
+.bookbox {
+    border-radius: 25px;
+    margin-right: 6%;
+    margin-left:
+        6%;
+    padding-bottom: 8%;
+}
+
+.apj {
+    margin-left: 8%;
+    margin-top: 4%;
+    width: 20%;
+}
+
+.bokt {
+    color: #183b56;
+    padding-left: 30%;
+    margin-top: -28%;
+    font-size: 300%;
+    font-weight: 500;
+}
+
+.cont {
+    margin-left: 32%;
+    font-family: 'Bree serif';
+    font-size: 140%;
+}
+
+#author {
+    margin-left: 30%;
+    color: #183b56;
+    font-family: 'Bree serif';
+    font-size: 119%;
+}
+
+.btn {
+    margin-left: 31%;
+}
+
+.cbbt {
+    margin-left: 17%;
+    margin-top: -16%;
+    color: snow;
+    font-family: 'Bree serif';
+    font-size: 240%;
+}
+
+.cb {
+    width: 12%;
+    margin-left: 3%;
+
+}
+
+.cbc {
+    color: snow;
+    margin-left: 20%;
+    font-size: 120%;
+    font-family: "Bree serif";
+}
+
+.cbn {
+    margin-left: 20%;
+    padding: .75% .75%;
+    font-weight: 600;
+}
+
+.Bp {
+    padding: 3% 4%;
+}
+
+.Potter {
+    padding: 3% 4%;
+
+}
+
+.bookA {
+    width: 26%;
+    margin-left: 35%;
+}
+
+.bt {
+    font-family: 'Bree serif';
+    font-size: 300%;
+    color: whitesmoke;
+    margin-left: 38%;
+}
+
+.aut {
+    color: #9aa5b1;
+    font-family: 'Bree serif';
+    margin-left: 43.5%;
+    font-size: 130%;
+
+}
+
+.text {
+    color: white;
+    font-family: 'Bree serif';
+    margin-left: 25%;
+    margin-right: 25%;
+    word-spacing: 1%;
+    letter-spacing: 1.5px;
+}
+
+
+.ct {
+    font-family: 'Bree serif';
+    font-size: 300%;
+    color: whitesmoke;
+    margin-left: 30%;
+}
+
+.auth {
+    color: #9aa5b1;
+    font-family: 'Bree serif';
+    font-size: 130%;
+    margin-left: 42%;
+}

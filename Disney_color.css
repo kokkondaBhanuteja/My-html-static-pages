@@ -1,0 +1,48 @@
+.main {
+    background-color: #ff8348;
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/orange-color-bg.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.para1 {
+    color: white;
+}
+
+.btn {
+    border-width: 0px;
+    align-content: center;
+    margin-left: 70%;
+    margin-top: -3.75%;
+    margin-bottom: 3%;
+
+}
+
+.btn-btn {
+    text-align: center;
+    padding: 10px 18px 10px 18px;
+    color: #ff8348;
+    background-color: white;
+    border-width: 0px;
+    border-radius: 6px;
+}
+
+.head1 {
+    color: white;
+    font-size: 60px;
+    font-weight: 900;
+}
+
+.head2 {
+    color: whitesmoke;
+    font-size: 20px;
+}
+.c-item{
+    height: 500xp;
+    width: 100%;
+    object-fit:fill;
+}
+c-img{
+    object-fit:fill;
+}
